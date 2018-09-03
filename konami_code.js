@@ -12,5 +12,6 @@ const codes = [
 ];
 
 function init() {
+  document.body
   // your code here
 }
